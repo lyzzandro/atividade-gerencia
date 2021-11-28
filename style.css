@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #b11313;
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    padding: 30px;
+    color: white;
+}
+img{
+    display: flex;
+    width: 600px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
